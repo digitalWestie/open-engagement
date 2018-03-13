@@ -1,12 +1,19 @@
 # Best Practice Building Engagement with Open Data 
 
-## Credits
+**Contents**
 
-Adapted & expanded from Pascal Romain & Temesis' [Bonne pratiques Open Data v1.1](https://www.opquast.com/20120417open-data-good-practices/).
+[Best Practices](#)
 
-[5-Stars of Open Data Engagement](http://www.timdavies.org.uk/2012/01/21/5-stars-of-open-data-engagement/) - Tim Davies & Open Gov Camp 2012 Attendees
+- [Clear licencing](#)
+- [Access and usability](#)
+- [Be demand driven](#)
+- [Provide quality metadata](#)
+- [Provide context](#)
+- [Support conversation](#)
+- [Build capacity & skills](#)
+- [Collaborate on data as a common resource](#)
 
-[Open Data Maturity Model](https://www.scribd.com/document/260481608/ODI-Maturity-Model-Guide-Assessing-your-open-data-publishing-and-use) - The [Open Data Institute](https://theodi.org)
+[Credits](#credits)
 
 
 ## Best Practices
@@ -108,3 +115,12 @@ Open Data belongs to all, involve and work with others to make it better.
 - Submit your data to relevant data portals or sign posting sites
 - Actively acknowledge others where you have used their data/services in your own project
 - Support those building tools or services that work with your data e.g. open source projects
+
+
+## Credits
+
+Adapted & expanded from Pascal Romain & Temesis' [Bonne pratiques Open Data v1.1](https://www.opquast.com/20120417open-data-good-practices/).
+
+[5-Stars of Open Data Engagement](http://www.timdavies.org.uk/2012/01/21/5-stars-of-open-data-engagement/) - Tim Davies & Open Gov Camp 2012 Attendees
+
+[Open Data Maturity Model](https://www.scribd.com/document/260481608/ODI-Maturity-Model-Guide-Assessing-your-open-data-publishing-and-use) - The [Open Data Institute](https://theodi.org)
