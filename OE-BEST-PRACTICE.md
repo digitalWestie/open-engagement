@@ -3,8 +3,8 @@
 **Contents**
 
 - [Best Practices](#best-practices)
-..- [Clear licencing](#clear-licencing)
-..- [Access and usability](#access-and-usability)
+  - [Clear licencing](#clear-licencing)
+  - [Access and usability](#access-and-usability)
 ..- [Be demand driven](#be-demand-driven)
 ..- [Provide quality metadata](#provide-quality-metadata)
 ..- [Provide context](#provide-context)
