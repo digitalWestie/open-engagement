@@ -5,12 +5,12 @@
 - [Best Practices](#best-practices)
   - [Clear licencing](#clear-licencing)
   - [Access and usability](#access-and-usability)
-..- [Be demand driven](#be-demand-driven)
-..- [Provide quality metadata](#provide-quality-metadata)
-..- [Provide context](#provide-context)
-..- [Support conversation](#support-conversation)
-..- [Build capacity & skills](#build-capacity-&-skills)
-..- [Collaborate on data as a common resource](#collaborate-on-data-as-a-common-resource)
+  - [Be demand driven](#be-demand-driven)
+  - [Provide quality metadata](#provide-quality-metadata)
+  - [Provide context](#provide-context)
+  - [Support conversation](#support-conversation)
+  - [Build capacity & skills](#build-capacity-&-skills)
+  - [Collaborate on data as a common resource](#collaborate-on-data-as-a-common-resource)
 
 [Credits](#credits)
 
