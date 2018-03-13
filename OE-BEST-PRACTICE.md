@@ -1,4 +1,6 @@
-# Achieving Engagement with Open Data: A Checklist of Best Practice
+# Open Data Engagement Checklist
+
+A series of best practices and tips when it comes to achieving engagement and impact in Open Data programmes. 
 
 **Contents**
 
