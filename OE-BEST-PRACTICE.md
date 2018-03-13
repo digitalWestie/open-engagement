@@ -2,15 +2,15 @@
 
 **Contents**
 
-[Best Practices](#)
+[Best Practices](#best-practices)
 
-- [Clear licencing](#)
-- [Access and usability](#)
-- [Be demand driven](#)
-- [Provide quality metadata](#)
-- [Provide context](#)
-- [Support conversation](#)
-- [Build capacity & skills](#)
+- [Clear licencing](#clear-licencing)
+- [Access and usability](#access-and-usability)
+- [Be demand driven](#be-demand-driven)
+- [Provide quality metadata](#provide-quality-metadata)
+- [Provide context](#provide-context)
+- [Support conversation](#support-conversation)
+- [Build capacity & skills](#build-capacity-&-skills)
 - [Collaborate on data as a common resource](#collaborate-on-data-as-a-common-resource)
 
 [Credits](#credits)
