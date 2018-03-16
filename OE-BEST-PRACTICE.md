@@ -84,7 +84,7 @@ Beyond metadata provide the qualitative information about what your data is, whe
 
 ### Support conversation
 
-Build a network and join  Network the people around your data.  
+Build and join up networks of people around your data.  
 
 - Accompany datasets with at least one means of contact to the publisher/maintainer
 - Provide a way for users to keep informed of updates and new releases e.g. social media account or mailing list
