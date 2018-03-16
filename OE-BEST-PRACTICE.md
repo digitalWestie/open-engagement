@@ -96,7 +96,7 @@ Build and join up networks of people around your data.
 
 ### Build capacity & skills
 
-Help the world do use your data by showing them how.
+Build data literacy and show users to use your data.
 
 - Provide examples of reuse cases / applications (fictitious or real) of your data
 - Provide or link to guides for working with your data
