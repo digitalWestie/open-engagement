@@ -14,7 +14,7 @@ A series of best practices and tips when it comes to achieving engagement and im
   - [Build capacity & skills](#build-capacity-&-skills)
   - [Collaborate on data as a common resource](#collaborate-on-data-as-a-common-resource)
 
-[Credits](#credits)
+[Credits and further reading](#credits)
 
 
 ## Best Practices
@@ -125,3 +125,5 @@ Adapted & expanded from Pascal Romain & Temesis' [Bonne pratiques Open Data v1.1
 [5-Stars of Open Data Engagement](http://www.timdavies.org.uk/2012/01/21/5-stars-of-open-data-engagement/) - Tim Davies & Open Gov Camp 2012 Attendees
 
 [Open Data Maturity Model](https://www.scribd.com/document/260481608/ODI-Maturity-Model-Guide-Assessing-your-open-data-publishing-and-use) - The [Open Data Institute](https://theodi.org)
+
+[Data on the Web Best Practices](https://www.w3.org/TR/dwbp/#intro) - W3C recommendations for data publishers
