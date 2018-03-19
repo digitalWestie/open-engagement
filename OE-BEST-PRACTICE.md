@@ -109,6 +109,8 @@ Build data literacy and show users to use your data.
 
 Open Data belongs to all, involve and work with others to make it better.
 
+- Write contributor guidelines
+- State requests for contribution 
 - Join others in creating / improving data standards
 - Provide feedback loops so users can provide suggestions and/or corrections
 - Collaborate with the community to create new data resources (e.g. derived datasets)
