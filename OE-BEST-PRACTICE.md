@@ -130,4 +130,4 @@ Adapted & expanded from Pascal Romain & Temesis' [Bonne pratiques Open Data v1.1
 
 [Data on the Web Best Practices](https://www.w3.org/TR/dwbp/#intro) - W3C recommendations for data publishers
 
-[Open data priorities and engagement](https://www.w3.org/2013/share-psi/workshop/Timisoara/report) - Share-PSI Network
+[Open data priorities and engagement (workshop report)](https://www.w3.org/2013/share-psi/workshop/Timisoara/report) - Share-PSI Network
