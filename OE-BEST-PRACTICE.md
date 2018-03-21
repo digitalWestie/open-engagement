@@ -124,6 +124,8 @@ Open Data belongs to all, involve and work with others to make it better.
 
 Adapted & expanded from Pascal Romain & Temesis' [Bonne pratiques Open Data v1.1](https://www.opquast.com/20120417open-data-good-practices/).
 
+[Open Leadership Training Series](https://mozilla.github.io/open-leadership-training-series/) - Mozilla
+
 [5-Stars of Open Data Engagement](http://www.timdavies.org.uk/2012/01/21/5-stars-of-open-data-engagement/) - Tim Davies & Open Gov Camp 2012 Attendees
 
 [Open Data Maturity Model](https://www.scribd.com/document/260481608/ODI-Maturity-Model-Guide-Assessing-your-open-data-publishing-and-use) - The [Open Data Institute](https://theodi.org)
