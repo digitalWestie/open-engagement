@@ -129,3 +129,5 @@ Adapted & expanded from Pascal Romain & Temesis' [Bonne pratiques Open Data v1.1
 [Open Data Maturity Model](https://www.scribd.com/document/260481608/ODI-Maturity-Model-Guide-Assessing-your-open-data-publishing-and-use) - The [Open Data Institute](https://theodi.org)
 
 [Data on the Web Best Practices](https://www.w3.org/TR/dwbp/#intro) - W3C recommendations for data publishers
+
+[Open data priorities and engagement](https://www.w3.org/2013/share-psi/workshop/Timisoara/report) - Share-PSI Network
