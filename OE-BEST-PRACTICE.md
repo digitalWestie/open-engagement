@@ -5,6 +5,7 @@ A series of best practices and tips when it comes to achieving engagement and im
 **Contents**
 
 - [Best Practices](#best-practices)
+  - [Make it Findable](#Make-it-Findable)
   - [Clear licencing](#clear-licencing)
   - [Access and usability](#access-and-usability)
   - [Be demand driven](#be-demand-driven)
@@ -18,6 +19,16 @@ A series of best practices and tips when it comes to achieving engagement and im
 
 
 ## Best Practices
+
+### Make it Findable
+When you publish your data, help people to find it. 
+
+- Have a clear Open Data landing page on your website
+- If your data is elsewhere, link to it from your landing page
+- Make sure that your website search and navigation point to it
+- If you list it on external sites, such as [Data.gov.uk](http://data.gov.uk), make sure that you update inbound links
+- Consider using a platform such as CKAN or DKAN to index it
+- See also the [Access and usability](#access-and-usability) tips below.
 
 ### Clear licencing
 
