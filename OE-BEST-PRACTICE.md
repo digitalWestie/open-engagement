@@ -2,7 +2,7 @@
 
 A series of best practices and tips when it comes to achieving engagement and impact in Open Data programmes. 
 
-This checklist is concerned with broad strokes and is primarily concerned with improving the user experience of open data or open data initiatives. Detailed guidelines and examples can be found all over the web, such as [this one published by ODILeeds](https://github.com/odileeds/open-data-tips).
+This checklist is primarily concerned with improving the user experience of open data or open data initiatives. If you find these are broad strokes, detailed guidelines and examples can be found all over the web, such as [this one published by ODILeeds](https://github.com/odileeds/open-data-tips).
 
 **Contents**
 
